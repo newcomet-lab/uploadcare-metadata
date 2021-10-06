@@ -1,0 +1,26 @@
+.app {
+  padding: 20px 40px;
+}
+
+.clearboth {
+  clear: both;
+}
+.row > div {
+  float: left;
+}
+.label-action > h3 {
+  margin: 0;
+  margin-right: 10px;
+}
+.label-input {
+  width: 200px;
+}
+.action-input > input {
+  width: 300px;
+}
+.label-button {
+  width: 500px;
+}
+.action-button {
+  width: 300px;
+}
