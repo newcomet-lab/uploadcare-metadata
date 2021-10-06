@@ -1,0 +1,42 @@
+{
+    "name": "OwnTheDay",
+    "symbol": "",
+    "description": "You are the owner of March 26. Head over to OwnTheDay.io to update your date information on the calendar",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "animation_url": "",
+    "external_url": "https:\/\/OwnTheDay.io",
+    "attributes": [
+        {
+            "trait_type": "date",
+            "value": "March 26"
+        },
+        {
+            "trait_type": "background",
+            "value": "Black"
+        },
+        {
+            "trait_type": "font",
+            "value": "White"
+        }
+    ],
+    "collection": {
+        "name": "Own The Day - NFT",
+        "family": "OwnTheDay"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "image.png",
+                "type": "image\/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "3KJab78N7AmVU8ZwRx5bVyVnSxHd9W1cKzvuwbx3sW1r",
+                "share": 100
+            }
+        ]
+    }
+}
