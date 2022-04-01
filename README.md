@@ -1,6 +1,6 @@
-# Prepare-NFT-JSON
+# Uploadcare-Metadata
 
-Prepare-NFT-JSON project is designed to let users upload images to [uploadcare.com](https://uploadcare.com) and prepare json files from original json of input by changing image url and wallet address.
+Uploadcare-Metadata project is designed to let users upload images to [uploadcare.com](https://uploadcare.com) and prepare json files from original json of input by changing image url and wallet address.
 
 ### Scripts
 
